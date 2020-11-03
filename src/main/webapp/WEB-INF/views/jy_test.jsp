@@ -7,7 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>Jeong sky</h1>
-	<h2>test 20201103 17:15</h2>
+
+	<h1> jiyoon git test!!!</h1>
+
 </body>
 </html>
